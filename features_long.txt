@@ -1,0 +1,79 @@
+Mean value of time domain signal of the body acceleration in the X axis
+Mean value of time domain signal of the body acceleration in the Y axis 
+Mean value of time domain signal of the body acceleration in the Z axis 
+Standard Deviation value of time domain signal of the body acceleration in the X axis 
+Standard Deviation value of time domain signal of the body acceleration in the Y axis 
+Standard Deviation value of time domain signal of the body acceleration in the Z axis 
+Mean value of time domain signal of the gravity acceleration in the X axis 
+Mean value of time domain signal of the gravity acceleration in the Y axis 
+Mean value of time domain signal of the gravity acceleration in the Z axis 
+Standard Deviation value of time domain signal of the gravity acceleration in the X axis 
+Standard Deviation value of time domain signal of the gravity acceleration in the Y axis 
+Standard Deviation value of time domain signal of the gravity acceleration in the Z axis 
+Mean value of time domain signal of the Body acceleration Jerk in the X axis 
+Mean value of time domain signal of time domain signal of the Body acceleration Jerk in the Y axis 
+Mean value of time domain signal of the Body acceleration Jerk in the Z axis 
+Standard Deviation value of time domain signal of the Body acceleration Jerk in the X axis 
+Standard Deviation value of time domain signal of the Body acceleration Jerk in the Y axis 
+Standard Deviation value of time domain signal of the Body acceleration Jerk in the Z axis 
+Mean value of time domain signal of the Body gyroscope in the X axis 
+Mean value of time domain signal of the Body gyroscope in the Y axis 
+Mean value of time domain signal of the Body gyroscope in the Z axis 
+Standard Deviation value of time domain signal of the Body gyroscope in the X axis 
+Standard Deviation value of time domain signal of the Body gyroscope in the Y axis 
+Standard Deviation value of time domain signal of the Body gyroscope in the Z axis 
+Mean value of time domain signal of the Body gyroscope Jerk in the X axis 
+Mean value of time domain signal of the Body gyroscope Jerk in the Y axis 
+Mean value of time domain signal of the Body gyroscope Jerk in the Z axis 
+Standard Deviation value of time domain signal of the Body gyroscope Jerk in the X axis 
+Standard Deviation value of time domain signal of the Body gyroscope Jerk in the Y axis 
+Standard Deviation value of time domain signal of the Body gyroscope Jerk in the Z axis 
+Mean value of time domain signal for the body acceleration magnitude 
+Standard Deviation value of time domain signal for the body acceleration magnitude 
+Mean value of time domain signal for the Gravity Accelaration magnitude 
+Standard Deviation value of time domain signal for the Gravity Accelaration magnitude 
+Mean value of time domain signal for the Body acceleration Jerk magnitude  
+Standard Deviation value of time domain signal for the Body Accelaration Jerk magnitude 
+Mean value of time domain signal for the Body Gyroscope magnitude 
+Standard Deviation value of time domain signal for the Body Gyroscope magnitude 
+Mean value of time domain signal for the Body Gyroscope Jerk magnitude 
+Standard Deviation value of time domain signal for the Body Gyroscope Jerk magnitude 
+Mean value of frequency domain signal for the body acceleration in the X axis
+Mean value of frequency domain signal for the body acceleration in the Y axis
+Mean value of frequency domain signal for the body acceleration in the Z axis
+Standard Deviation value of frequency domain signal for the body acceleration in the X axis
+Standard Deviation value of frequency domain signal for the body acceleration in the Y axis
+Standard Deviation value of frequency domain signal for the body acceleration in the Z axis
+Mean frequency value of frequency domain signal for the body acceleration in the X axis
+Mean frequency value of frequency domain signal for the body acceleration in the Y axis
+Mean frequency value of frequency domain signal for the body acceleration in the Z axis
+Mean value of frequency domain signal for the body acceleration Jerk in the X axis
+Mean value of frequency domain signal for the body acceleration Jerk in the Y axis
+Mean value of frequency domain signal for the body acceleration Jerk in the Z axis
+Standard Deviation value of frequency domain signal for the body acceleration Jerk in the X axis
+Standard Deviation value of frequency domain signal for the body acceleration Jerk in the Y axis
+Standard Deviation value of frequency domain signal for the body acceleration Jerk in the Z axis
+Mean frequency value of frequency domain signal for the body acceleration Jerk in the X axis
+Mean frequency value of frequency domain signal for the body acceleration Jerk in the Y axis
+Mean frequency value of frequency domain signal for the body acceleration Jerk in the Z axis
+Mean value of frequency domain signal of the body gyroscope in the X axis
+Mean value of frequency domain signal of the body gyroscope in the Y axis
+Mean value of frequency domain signal of the body gyroscope in the Z axis
+Standard Deviation value of frequency domain signal of the body gyroscope in the X axis
+Standard Deviation value of frequency domain signal of the body gyroscope in the Y axis
+Standard Deviation value of frequency domain signal of the body gyroscope in the Z axis
+Mean frequency value of frequency domain signal of the body gyroscope in the X axis
+Mean frequency value of frequency domain signal of the body gyroscope in the Y axis
+Mean frequency value of frequency domain signal of the body gyroscope in the Z axis
+Mean value of frequency domain signal for the body acceleration magnitude
+Standard Deviation value of frequency domain signal for the body acceleration magnitude
+Mean frequency value of the frequency domain signal for the body acceleration magnitude
+Mean value of the frequency domain signal for the body accelaration jerk magnitude
+Standard Deviation value of the frequency domain signal for the body accelaration jerk magnitude
+Mean frequency value of the frequency domain signal for the body acceleration jerk magnitude
+Mean value of the frequency domain signal for the body gyroscope jerk magnitude
+Standard Deviation value of the frequency domain signal for the body gyroscope jerk magnitude
+Mean frequency value of the frequency domain signal for the body gyroscope magnitude
+Mean value of the frequency domain signal for the body gyroscope jerk magnitude
+Standard Deviation value of the frequency domain signal for the body gyroscope jerk magnitude
+Mean frequency value of the frequency domain signal for the body gyroscope jerk magnitude
