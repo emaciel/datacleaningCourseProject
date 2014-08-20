@@ -28,7 +28,7 @@ The following table lists all necessary files for the `run_analysis( )` function
 |Files| Number of Lines | Number of columns |
 |-----|:---------------:|:-----------------:|
 |features.txt| 561 | 2 |
-|features_long.txt| 561 | 1 |
+|features_long.txt| 79 | 1 |
 |activity_labels.txt| 6 | 2 |
 |subject_test.txt| 2947 | 1 |
 |subject_train.txt| 7352 | 1 |
